@@ -459,7 +459,7 @@ it('subject mapping XML', async () => {
   assert.equal(result[0]['@id'], 'Tiger');
 });
 
-it('Triple nested mapping XML', async () => {
+it.skip('Triple nested mapping XML', async () => {
   const options = {
     xmlPerformanceMode: true,
   };

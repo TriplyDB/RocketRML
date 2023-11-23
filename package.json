@@ -49,9 +49,6 @@
     "mocha": "^10.2.0",
     "prettier": "^2.8.1"
   },
-  "optionalDependencies": {
-    "xpath-iterator": "git+https://abc@github.com/ThibaultGerrier/XpathIterator#647ba7c2973b3feadcc010f83f7086fe043e0810"
-  },
   "files": [
     "LICENSE",
     "index.js",
