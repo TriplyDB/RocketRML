@@ -29,24 +29,24 @@
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
     "csv-parse": "^5.3.3",
-    "fontoxpath": "^3.28.2",
+    "fontoxpath": "^3.33.1",
     "html2plaintext": "^2.1.4",
-    "jsonld": "^5.2.0",
-    "jsonpath-plus": "^7.2.0",
+    "jsonld": "^8.3.3",
+    "jsonpath-plus": "^10.3.0",
     "language-tags": "^1.0.7",
-    "n3": "^1.16.3",
-    "slimdom": "^4.1.0",
+    "n3": "^1.24.2",
+    "slimdom": "^4.3.5",
     "utm": "^1.1.1",
-    "xpath": "^0.0.32"
+    "xpath": "^0.0.34"
   },
   "devDependencies": {
-    "@types/mocha": "^10.0.1",
+    "@types/mocha": "^10.0.10",
     "colors": "^1.4.0",
     "diff": "^5.1.0",
     "eslint": "^8.29.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
-    "mocha": "^10.2.0",
+    "mocha": "^11.1.0",
     "prettier": "^2.8.1"
   },
   "files": [
